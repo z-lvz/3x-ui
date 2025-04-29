@@ -3,8 +3,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = '3x-ui-z'
-primary_region = 'sjc'
+app = '3x-ui-sin'
+primary_region = 'sin'
 
 [build]
 
