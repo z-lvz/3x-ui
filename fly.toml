@@ -21,9 +21,9 @@ primary_region = 'sjc'
     soft_limit = 99999
     hard_limit = 9999999999
 
-#[[mounts]]
-#  source = "data_vol"
-#  destination = "/etc/x-ui"
+[[mounts]]
+  source = "data_vol"
+  destination = "/etc/x-ui"
 
 [[services]]
   internal_port = 63396
